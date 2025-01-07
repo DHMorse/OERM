@@ -1,4 +1,4 @@
-# Omniplexium 
-# Eternal
-# Road
-# Map
+# **O**mniplexium  
+# **E**ternal  
+# **R**oad  
+# **M**ap
