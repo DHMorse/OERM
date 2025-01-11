@@ -16,7 +16,7 @@ Finished Demo:
 
 
     - Figure out Quest Data Type
-    probably some custom json structure
+    BS, no data type, custom individualized CHATGPT REQUESTS I LOVE LIFE I'M SO HORNY
 
 
     - Quests: 
@@ -67,6 +67,6 @@ Finished Demo:
 
 
         - Inventory:
-            - Add other items than cards to the inventory
+            - Add other items than cards to the inventory daddy
 
 
