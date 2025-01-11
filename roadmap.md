@@ -20,8 +20,14 @@ Finished Demo:
 
 
     - Quests: 
-        - Generate Quest Data
+        # - Generate Quest Data not needed for our current implomentation
+        - Player accepts quest
+        - Player gets dm'd or something
+        - Player chooses one of 4 options or something 
+        - Player does this a few times
         - get Ai cards from completing them 
+        - Optional:
+            - Over Arching Story quests.
 
 
     - Fights: 
