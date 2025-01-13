@@ -13,11 +13,6 @@ Finished Demo:
     - Figure out Card Data Type
     probably (image, dict[stat: str, value: str | int | float])
 
-
-    - Figure out Quest Data Type
-    probably some custom json structure
-
-
     - Quests: 
         # - Generate Quest Data not needed for our current implomentation
         - Player accepts quest
@@ -45,6 +40,8 @@ Finished Demo:
 
 
     - Optional:
+        - Figure out Quest Data Type
+        probably some custom json structure
         - Skills:
             - 1. combat or (attack and speed)
                 - get this from killing stuffs
