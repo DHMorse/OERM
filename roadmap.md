@@ -13,6 +13,13 @@ Finished Demo:
     - Figure out Card Data Type
     probably (image, dict[stat: str, value: str | int | float])
 
+    - View Stats:
+        - !stats or /stats
+        - View the players stats
+        - View the players cards
+        - View the players cards stats
+
+
     - Quests: 
         # - Generate Quest Data not needed for our current implomentation
         - Player accepts quest
@@ -30,13 +37,6 @@ Finished Demo:
         - Turn based battle system
 
     fight friends in pokemon battles with cards
-
-
-    - View Stats:
-        - !stats or /stats
-        - View the players stats
-        - View the players cards
-        - View the players cards stats
 
 
     - Optional:
