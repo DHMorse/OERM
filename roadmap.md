@@ -7,8 +7,7 @@ Finished Demo:
         - Gives rewards based of number of days logged in, in a row
         Optional:
             - Reminders to login
-            Optional:
-                - Opt in / Opt out system
+            - Opt in / Opt out system
 
 
     - Figure out Card Data Type
